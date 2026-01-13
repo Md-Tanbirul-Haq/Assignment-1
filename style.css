@@ -71,6 +71,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
+    margin-bottom: 50px;
 }
 
 .banner {
@@ -78,5 +79,44 @@
     margin: auto;
     padding-top: 100px;
     text-align: center;
+
+}
+
+#notes {
+
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.notes-1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.notes {
+    display: flex;
+    gap: 20px;
+}
+
+.notes_ {
+    box-shadow: 4px 4px 8px 8px gray;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    /* justify-items: center; */
+    align-items: center;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.notes_img {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
 
 }
