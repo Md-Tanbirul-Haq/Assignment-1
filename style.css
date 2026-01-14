@@ -134,3 +134,21 @@
     padding-top: 100px;
     width: 500px;
 }
+
+#Think {
+    width: 80%;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.think {
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
