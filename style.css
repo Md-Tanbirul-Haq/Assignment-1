@@ -176,3 +176,13 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.btn:hover {
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+}
+
+.btn_:hover {
+    font-weight: bold;
+}
