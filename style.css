@@ -120,3 +120,17 @@
     border-radius: 50%;
 
 }
+
+.Brain {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+
+}
+
+.brain_ {
+    padding-top: 100px;
+    width: 500px;
+}
